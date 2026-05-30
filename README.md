@@ -1,11 +1,11 @@
 # my-first-repo
 
-Welcom to my first GitHub repository!
+Welcome to my first GitHub repository!
 
-This is where I wil experiment and lern Git and GitHub.
+This is where I will experiment and learn Git and GitHub.
 
 ## Goals
 
-- Get confortable with version controll
+- Get comfortable with version control
 - Practice making commits
-- Learn how pull requets work
+- Learn how pull requests work
